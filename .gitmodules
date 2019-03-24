@@ -1,0 +1,3 @@
+[submodule "git-subtree-test-2"]
+	path = git-subtree-test-2
+	url = https://github.com/dingyi342/git-subtree-test.git
