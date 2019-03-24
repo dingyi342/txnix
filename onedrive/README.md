@@ -761,3 +761,5 @@ Options:
 ### File naming
 The files and directories in the synchronization directory must follow the [Windows naming conventions](https://msdn.microsoft.com/en-us/library/aa365247).
 The application will attempt to handle instances where you have two files with the same name but different case. Where there is a namespace clash, the file name which clashes will not be synced. This is expected behavior and won't be fixed.
+
+hehe
